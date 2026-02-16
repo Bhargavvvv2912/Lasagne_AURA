@@ -1,0 +1,12 @@
+numpy
+scipy
+https://github.com/Theano/Theano/archive/master.zip
+mock
+numpydoc
+pep8
+pytest
+pytest-cov
+pytest-pep8
+Jinja2
+Sphinx
+sphinx_rtd_theme
