@@ -2,11 +2,12 @@ numpy==1.21.6
 scipy==1.7.3
 https://github.com/Theano/Theano/archive/master.zip
 mock==2.0.0
-numpydoc==0.5        # <--- FIX: This version supports Sphinx 1.2.3
+numpydoc==0.5
 pep8==1.6.2
 pytest==6.2.5
 pytest-cov==2.12.1
 pytest-pep8==1.0.6
 Jinja2==2.7.3
+markupsafe==2.0.1    # <--- THE MISSING LINK
 Sphinx==1.2.3
 sphinx_rtd_theme==0.1.6
